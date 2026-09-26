@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm shadow-1a! 👋
 
-<!--
-**shadow-1a/shadow-1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+* **Focus:** Competitive programming and software development.
+* **Languages:** C++ and Python.
 
-Here are some ideas to get you started:
+### 📊 My LeetCode Statistics
+Here is my live progress tracked directly from LeetCode:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **Contest Rating:** Updating this Wednesday!
+
+<p align="center">
+  <img src="https://vercel.app" alt="LeetCode Stats" />
+</p>
+
+### 🛠️ Tech Stack
+* **Languages:** C++, Python, JavaScript.
+* **Tools:** Git, GitHub, VS Code.
+*
