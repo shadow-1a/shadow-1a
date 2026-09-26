@@ -2,7 +2,7 @@
 
 ### 💻 About Me
 * **Focus:** Competitive programming and software development.
-* **Languages:** C++ and Python.
+* **Languages:** C++
 
 ### 📊 My LeetCode Statistics
 Here is my live progress tracked directly from LeetCode:
@@ -14,6 +14,6 @@ Here is my live progress tracked directly from LeetCode:
 </p>
 
 ### 🛠️ Tech Stack
-* **Languages:** C++, Python, JavaScript.
-* **Tools:** Git, GitHub, VS Code.
+* **Languages:** C++
+* **Tools:** GitHub, VS Code.
 *
