@@ -7,10 +7,10 @@
 ## 📊 My Coding Profiles
 
 ### 🔴 LeetCode Statistics
-📊 **Contest Rating:** Updating this Wednesday!
+📊 **Contest Rating:** 1,480
 
 <p align="center">
-  <img src="https://vercel.app" alt="LeetCode Stats" />
+  <img src="https://knightsofthelabs.com" alt="LeetCode Stats" />
 </p>
 
 ### 🟢 HackerRank Profile
@@ -25,3 +25,4 @@
 ## 🛠️ Tech Stack
 *   **🚀 Languages:** C++
 *   **🧰 Tools:** GitHub, VS Code.
+*
