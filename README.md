@@ -7,16 +7,20 @@
 ## 📊 My Coding Profiles
 
 ### 🔴 LeetCode Statistics
-📊 **Contest Rating:** 1,480
+*   **👤 Username:** shadow_compile
+*   **📊 Contest Rating:** 1,480
+*   **✅ Solved Problems:** 11
 
-<p align="center">
-  <img src="https://knightsofthelabs.com" alt="LeetCode Stats" />
+<p align="left">
+  <a href="https://leetcode.com" target="_blank">
+    <img src="https://shields.io" alt="LeetCode Profile" />
+  </a>
 </p>
 
 ### 🟢 HackerRank Profile
-🎯 **Coding Badges & Challenges:**
+*   **👤 Username:** akashtripathi961
 
-<p align="center">
+<p align="left">
   <a href="https://hackerrank.com" target="_blank">
     <img src="https://shields.io" alt="HackerRank Profile" />
   </a>
