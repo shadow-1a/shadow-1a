@@ -9,10 +9,10 @@
 ### 🔴 LeetCode Profile
 *   **📊 Contest Rating:** 1,480
 *   **✅ Solved Problems:** 11
-*   **🔗 View My Profile:** [://leetcode.com](https://://leetcode.com)
+*   **🔗 View My Profile:** [Click here to view my LeetCode](https://leetcode.com)
 
 ### 🟢 HackerRank Profile
-*   **🔗 View My Profile:** [://hackerrank.com](https://www.://hackerrank.com)
+*   **🔗 View My Profile:** [Click here to view my HackerRank](https://hackerrank.com)
 
 ## 🛠️ Tech Stack
 *   **🚀 Languages:** C++
