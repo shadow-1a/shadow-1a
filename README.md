@@ -6,7 +6,7 @@
 
 ## 📊 My Coding Profiles
 
-### 🔴 LeetCode Profile
+### 🔴 LeetCode Profile 
 *   **📊 Contest Rating:** 1,480
 *   **✅ Solved Problems:** 11
 *   **🔗 View My Profile:** [Click here to view my LeetCode](https://leetcode.com)
