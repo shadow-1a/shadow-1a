@@ -1,20 +1,18 @@
-# 👋 Hi there, I'm passerby! 🌐
+# 👋 Hi there, I'm passerby!
 
-## 👤 About Me
-*   **🎯 Focus:** Competitive programming and software development.
-*   **💻 Languages:** C++
+### 👤 About Me
+- 🎯 **Focus:** Competitive programming and software development
+- 💻 **Languages:** C++
 
-## 📊 My Coding Profiles
+---
 
-### 🔴 LeetCode Profile 
-*   **📊 Contest Rating:** 1,480
-*   **✅ Solved Problems:** 11
-*   **🔗 View My Profile:** [Click here to view my LeetCode](https://leetcode.com)
+### 📊 My Coding Profiles
 
-### 🟢 HackerRank Profile
-*   **🔗 View My Profile:** [Click here to view my HackerRank](https://hackerrank.com)
+#### 🔴 LeetCode Profile
+<a href="https://leetcode.com">
+  <img src="https://vercel.app" alt="LeetCode Stats" />
+</a>
 
-## 🛠️ Tech Stack
-*   **🚀 Languages:** C++
-*   **🧰 Tools:** GitHub, VS Code.
+#### 🟢 HackerRank Profile
+* 🔗 [Click here to view my HackerRank Profile](https://hackerrank.com)
 *
