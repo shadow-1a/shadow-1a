@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm shadow-1a! 🌐
+# 👋 Hi there, I'm passerby! 🌐
 
 ## 👤 About Me
 *   **🎯 Focus:** Competitive programming and software development.
